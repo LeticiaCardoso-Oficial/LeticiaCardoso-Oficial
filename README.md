@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--### 👋 Olá, eu sou Leticia
 
 Profissional de TI com experiência em **Suporte Técnico, Help Desk e Service Desk (N1/N2)**, focado em experiência do usuário e resolução ágil de incidentes. Sou formado em **Análise e Desenvolvimento de Sistemas** e combino vivência em infraestrutura corporativa com conhecimentos de programação e dados, indo além do suporte tradicional com **automação de processos** e otimização de ambientes.
