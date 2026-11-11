@@ -14,6 +14,13 @@ Estou estudando **Cibersegurança** e me aprofundando em **Red Team**, unindo mi
 ### 💡 Meu diferencial
 Capacidade analítica aplicada à TI, usando **Python, SQL e Pandas** para automatizar rotinas e resolver problemas de forma inteligente.
 
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeticiaCardoso-Oficial/LeticiaCardoso-Oficial/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/LeticiaCardoso-Oficial/LeticiaCardoso-Oficial/output/github-contribution-grid-snake.svg">
+</picture>
+
 ### 🧰 Stack e competências
 - **Infraestrutura e Suporte:** Service Desk N1/N2 · Troubleshooting · Gestão de Incidentes e SLA · Suporte Remoto/Presencial
 - **Sistemas e Ferramentas:** Active Directory · Office 365 · Redes e Conectividade · VPN · Windows
